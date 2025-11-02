@@ -7,7 +7,7 @@
      # a. Sous windows
         your_virtual_environment\Scrips\activate
 	 # b. Sous Mac
-		your_virtual_environment/bin/activate
+		source your_virtual_environment/bin/activate
   # 3. Installer les dépendances:
       pip install -r requirements.txt
 # Configuration des variables d'environnement
