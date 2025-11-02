@@ -3,8 +3,14 @@
 # Installation
   # 1. Créer un environnement virtuel:
       python -m venv your_virtual_environment
-  # 2. Intaller les dépendances:
+  # 2. Activer l'environnement virtuel
+     # a. Sous windows
+        your_virtual_environment\Scrips\activate
+					# b. Sous Mac
+					   your_virtual_environment/bin/activate
+  # 3. Intaller les dépendances:
       pip install -r requirements.txt
-  # 3. Exécution
+  # 4. Exécution
       python price_alert.py
+# NB: Ces données ne doivent pas être publiés dans des sites ou autre vous pouvez l'utiliser à titre personnel ou à titre d'apprentissage
   
