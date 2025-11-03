@@ -1,5 +1,5 @@
 # Scrapping_alert
- Script simple en python pour Scrapper le prix d'un article sur Alibaba ou n'importe quel site et renvoyer un alerte sur notre téléphone si le prix est en baisse avec un suivi de 24/7
+ Script simple en python pour Scrapper le prix d'un article sur un site et renvoyer un alerte sur notre téléphone si le prix est en baisse avec un suivi de 24/7
 # Installation
   # 1. Créer un environnement virtuel:
       python -m venv your_virtual_environment
